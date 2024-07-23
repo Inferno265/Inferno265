@@ -17,7 +17,7 @@ I'm a full stack developer...
 
 💬 Ask me about if i have depression
 
-📫 How to reach me: m3ci3k@gmail.com
+📫 How to reach me: m3ci3k@gmail.com or using [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@inf3rno634/)
 
 😄 Pronouns: He/Him
 
