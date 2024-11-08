@@ -11,18 +11,9 @@ I'm a full stack developer...
 
 🧠 I'm currently learning C++
 
-👯‍♀️ I'm looking to collaborate with Myself
-
-🤔 I'm looking for help with Memory Leaks in C++
-
-💬 Ask me about if i have depression
-
 📫 How to reach me: m3ci3k@gmail.com or using [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@inf3rno634/)
 
 😄 Pronouns: He/Him
-
-⚡️ Fun fact. I am one of the youngest developers in my country.
-
 
 ## 🛠 Skills
 
