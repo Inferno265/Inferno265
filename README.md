@@ -11,8 +11,6 @@ I'm a full stack developer...
 
 🧠 I'm currently learning C++
 
-📫 How to reach me: m3ci3k@gmail.com or using [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@inf3rno634/)
-
 😄 Pronouns: He/Him
 
 ## 🛠 Skills
